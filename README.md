@@ -1,7 +1,7 @@
 # Sales Dashboard – Tableau Project
 
-![Sales Dashboard](images/Sales.png)
-![Orders Dashboard](images/Orders.png)
+![Sales Dashboard](Images/Sales.png)
+![Orders Dashboard](Images/Orders.png)
 
 This project presents an **interactive Tableau Sales Dashboard** built using the Amazon Sales Dataset.
 It provides a comprehensive view of sales performance across multiple regions and product categories between **2012 and 2015**, allowing decision-makers to analyze revenue, profit, and product trends effectively.
